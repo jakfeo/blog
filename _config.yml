@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal   # 或 minima、cayman 等
+title:  我的个人主页
+description: 写代码，记笔记，分享生活
+email: yourname@example.com
