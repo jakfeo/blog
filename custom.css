@@ -1,6 +1,6 @@
-/* Make the layout wider */
-.wrapper {
-  max-width: 1200px;
-  width: 90%;
-  margin: 0 auto;
+body > div {
+  max-width: 1200px !important;
+  width: 90% !important;
+  margin: 0 auto !important;
+  padding: 20px;
 }
