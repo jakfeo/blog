@@ -1,4 +1,9 @@
 ---
 layout: default
+title: Home
 ---
-匀迈伞biss
+
+# Welcome to My Wide Site
+
+This site uses the **Minimal theme** with a **custom wide layout**.
+
