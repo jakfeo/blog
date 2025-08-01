@@ -2,7 +2,5 @@
 layout: wide
 title: Home
 ---
-
-# ✅ Wide Layout
-
-This layout should now be full width. Try adding more content to see it stretch.
+匀迈伞biss
+卧槽泥马勒戈壁
