@@ -32,7 +32,7 @@ layout: default
 <body>
     <div class="content">
         <h1>Welcome to My Full Screen Page</h1>
-        <p>This is a full screen Markdown page.</p>
+        <p>This is a full screen对方的地方 Markdown page.</p>
     </div>
 </body>
 </html>
