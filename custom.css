@@ -1,6 +1,6 @@
 /* Force wider layout */
 main {
-  max-width: 1200px !important;
+  width: 100vw;
   margin: 0 auto;
   padding: 20px;
 }
