@@ -1,9 +1,13 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Full Screen Markdown Page</title>
+    <title>Full Screen Page</title>
     <style>
         html, body {
             margin: 0;
@@ -17,7 +21,7 @@
         }
         .content {
             width: 100%;
-            max-width: 1200px; /* 限制最大宽度 */
+            max-width: 1200px;
             padding: 20px;
             text-align: center;
             background-color: #fff;
