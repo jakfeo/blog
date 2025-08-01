@@ -1,8 +1,10 @@
 title: My Wide Minimal Site
-description: Making Minimal theme wider
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-feed
 
-include:
-  - head-custom.html
+# Enable using custom layouts
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: wide
