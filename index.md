@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: wide
 title: Home
 ---
 
-# Welcome to My Wide Site
+# ✅ Wide Layout
 
-This site uses the **Minimal theme** with a **custom wide layout**.
-
+This layout should now be full width. Try adding more content to see it stretch.
