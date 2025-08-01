@@ -1,56 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ÈıÁĞµÈ¿í²¼¾Ö</title>
-  <style>
-    /* ÉèÖÃÒ³ÃæÕûÌåÑùÊ½ */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f5f5f5;
-    }
+---
+layout: default
+title: æˆ‘çš„ä¸ªäººä¸»é¡µ
+---
 
-    /* ÉèÖÃÈİÆ÷ÑùÊ½ */
-    .container {
-      display: flex; /* Ê¹ÓÃ Flexbox ²¼¾Ö */
-      justify-content: space-between; /* ÈıÁĞÖ®¼äµÈ¼ä¾à */
-      align-items: stretch; /* Ê¹ËùÓĞÁĞµÄ¸ß¶ÈÒ»ÖÂ */
-      padding: 20px;
-      max-width: 1200px; /* ×î´ó¿í¶È */
-      margin: 0 auto; /* ¾ÓÖĞÏÔÊ¾ */
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+# æ¬¢è¿æ¥åˆ°æˆ‘çš„ä¸ªäººä¸»é¡µ
 
-    /* ÉèÖÃÃ¿ÁĞµÄÑùÊ½ */
-    .column {
-      flex: 1; /* Ã¿ÁĞµÈ¿í */
-      margin: 0 10px; /* ÁĞÖ®¼äµÄ¼ä¾à */
-      padding: 20px;
-      background-color: #f9f9f9;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="column">
-      <h2>ÁĞ1</h2>
-      <p>ÄÚÈİA</p>
-    </div>
-    <div class="column">
-      <h2>ÁĞ2</h2>
-      <p>ÄÚÈİB</p>
-    </div>
-    <div class="column">
-      <h2>ÁĞ3</h2>
-      <p>ÄÚÈİC</p>
-    </div>
-  </div>
-</body>
-</html>
+è¿™é‡Œæ˜¯å…³äºæˆ‘çš„ä¸€äº›ä¿¡æ¯ã€‚
+
+## å…³äºæˆ‘
+- åå­—ï¼šä½ çš„åå­—
+- èŒä¸šï¼šä½ çš„èŒä¸š
+- çˆ±å¥½ï¼šä½ çš„çˆ±å¥½
+
+## è”ç³»æ–¹å¼
+- é‚®ç®±ï¼šyour-email@example.com
+- GitHubï¼š[ä½ çš„GitHubä¸»é¡µ](https://github.com/your-github-username)
