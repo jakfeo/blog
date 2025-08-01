@@ -1,6 +1,7 @@
-body > div {
+/* Force wider layout */
+main {
   max-width: 1200px !important;
-  width: 90% !important;
-  margin: 0 auto !important;
+  margin: 0 auto;
   padding: 20px;
 }
+
