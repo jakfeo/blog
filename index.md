@@ -47,3 +47,5 @@ title: Home
   <path d="M40 100 Q70 50, 100 100 T160 100 T220 100" 
         fill="none" stroke="blue"/>
 </svg>
+
+![SVG 历史时间轴](test.svg)
