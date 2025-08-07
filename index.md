@@ -11,6 +11,12 @@ title: Home
 <p style="text-align:center">匀迈伞和你的党一起狗带。</p>
 
 
+<table><tr><td align="center">
+
+这是视觉上居中的文字
+
+</td></tr></table>
+
 
 ## Features
 
