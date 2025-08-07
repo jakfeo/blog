@@ -39,3 +39,11 @@ title: Home
 |-|-|
 | Apple | 4 |
 | Banana | 2 |
+
+
+<svg width="400" height="200">
+  <line x1="40" y1="10" x2="40" y2="180" stroke="black"/>
+  <line x1="40" y1="100" x2="380" y2="100" stroke="black"/>
+  <path d="M40 100 Q70 50, 100 100 T160 100 T220 100" 
+        fill="none" stroke="blue"/>
+</svg>
