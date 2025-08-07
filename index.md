@@ -10,6 +10,7 @@ title: Home
 
 <p style="text-align:center">匀迈伞和你的党一起狗带。</p>
 
+<p align="center">这是居中的文字</p>
 
 <table><tr><td align="center">
 
