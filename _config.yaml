@@ -8,4 +8,4 @@ theme: minima
 # 让Jekyll包含自定义的_layouts和assets.css
 include:
   - _layouts
-  - custom.css
+  - assets.css
