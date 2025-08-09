@@ -1,5 +1,5 @@
 title: 我的个人主页
 description: 欢迎访问我的个人主页
-baseurl: "" # 如果你部署在子目录，比如 /blog, 这里写 /blog
+baseurl: "/blog" # 如果你部署在子目录，比如 /blog, 这里写 /blog
 url: "https://yourdomain.com" # 你的域名
 theme: null
