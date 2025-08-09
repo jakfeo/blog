@@ -6,11 +6,9 @@ title: 首页
 欢迎访问我的个人主页。
 <p>文章数量：{{ site.posts | size }}</p>
 
+<p>全部页面数：{{ site.pages | size }}</p>
 <ul>
-  {% for post in site.posts limit:2 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
-      <small>{{ post.excerpt }}</small>
-    </li>
+  {% for page in site.pages %}
+    <li>{{ page.url }}</li>
   {% endfor %}
 </ul>
