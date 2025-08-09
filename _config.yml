@@ -1,5 +1,6 @@
-title: ÎÒµÄ¸öÈËÖ÷Ò³
-description: »¶Ó­·ÃÎÊÎÒµÄ¸öÈËÖ÷Ò³
-baseurl: "" # Èç¹ûÄã²¿ÊğÔÚ×ÓÄ¿Â¼£¬±ÈÈç /blog, ÕâÀïĞ´ /blog
-url: "https://yourdomain.com" # ÄãµÄÓòÃû
+title: æˆ‘çš„ä¸ªäººä¸»é¡µ
+description: æ¬¢è¿è®¿é—®æˆ‘çš„ä¸ªäººä¸»é¡µ
+baseurl: "" # å¦‚æœä½ éƒ¨ç½²åœ¨å­ç›®å½•ï¼Œæ¯”å¦‚ /blog, è¿™é‡Œå†™ /blog
+url: "https://yourdomain.com" # ä½ çš„åŸŸå
 theme: null
+
