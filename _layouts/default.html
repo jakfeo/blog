@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+  </header>
+  <main class="three-columns">
+    <section>
+      <h2>关于我</h2>
+      <p>这里写一些关于你的介绍。</p>
+    </section>
+    <section>
+      <h2>我的项目</h2>
+      <p>这里列出你的项目或作品。</p>
+    </section>
+    <section>
+      <h2>联系方式</h2>
+      <p>邮箱、社交媒体等联系方式放这里。</p>
+    </section>
+  </main>
+  <footer>
+    <p>? {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
+</body>
+</html>

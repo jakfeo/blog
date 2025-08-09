@@ -1,15 +1,5 @@
-title: ä½ çš„åšå®¢æ ‡é¢˜
-description: è¿™æ˜¯æˆ‘çš„ä¸ªäººåšå®¢
-baseurl: ""  # è‹¥æ˜¯ç”¨æˆ·å.github.ioï¼Œä¿æŒç©ºå­—ç¬¦ä¸²
-url: "https://ä½ çš„ç”¨æˆ·å.github.io"
-
-# é»˜è®¤å¸ƒå±€æ”¹æˆæˆ‘ä»¬çš„ jakfeo
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: jakfeo
-
-include:
-  - _layouts
-  - assets.css
+title: ÎÒµÄ¸öÈËÖ÷Ò³
+description: »¶Ó­·ÃÎÊÎÒµÄ¸öÈËÖ÷Ò³
+baseurl: "" # Èç¹ûÄã²¿ÊğÔÚ×ÓÄ¿Â¼£¬±ÈÈç /blog, ÕâÀïĞ´ /blog
+url: "https://yourdomain.com" # ÄãµÄÓòÃû
+theme: null
