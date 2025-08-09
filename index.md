@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: jakfeo
 title: 首页
 ---
 
@@ -27,9 +27,9 @@ title: 首页
 ## 最新文章
 
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% raw %}{% for post in site.posts limit:5 %}{% endraw %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <small>{{ post.date | date: "%Y-%m-%d" }}</small>
   </li>
-  {% endfor %}
+  {% raw %}{% endfor %}{% endraw %}
 </ul>

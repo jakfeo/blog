@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: jakfeo
 title: 关于我
 ---
 

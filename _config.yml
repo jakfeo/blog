@@ -1,0 +1,10 @@
+title: 你的博客标题
+description: 这是我的个人博客
+baseurl: ""  # 若是用户名.github.io，保持空字符串
+url: "https://你的用户名.github.io"
+
+theme: minima
+
+include:
+  - _layouts
+  - assets.css
