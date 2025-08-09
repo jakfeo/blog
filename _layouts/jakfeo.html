@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 
-    <!-- Minimal 默认样式 -->
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <!-- 自定义样式，确保后加载覆盖 -->
+    <!-- Minima 样式（CDN） -->
+    <link rel="stylesheet" href="https://unpkg.com/minima@2.5.1/assets/main.css">
+    <!-- 自定义样式 -->
     <link rel="stylesheet" href="{{ '/assets.css' | relative_url }}">
   </head>
   <body>

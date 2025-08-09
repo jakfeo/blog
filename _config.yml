@@ -3,8 +3,6 @@ description: 这是我的个人博客
 baseurl: ""  # 若是用户名.github.io，保持空字符串
 url: "https://你的用户名.github.io"
 
-theme: minima
-
 # 默认布局改成我们的 jakfeo
 defaults:
   - scope:
