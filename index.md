@@ -8,7 +8,10 @@ title: 首页
 
 <p>全部页面数：{{ site.pages | size }}</p>
 <ul>
-  {% for page in site.pages %}
-    <li>{{ page.url }}</li>
-  {% endfor %}
+  {% raw %}{% for post in site.posts limit:5 %}{% endraw %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+  </li>
+  {% raw %}{% endfor %}{% endraw %}
 </ul>
+
